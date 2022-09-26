@@ -1,4 +1,4 @@
-//class name-Student.java
+//To store Student Data
 import java.util.*;
 class Student {
     private String name;
