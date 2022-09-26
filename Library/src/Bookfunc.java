@@ -1,4 +1,4 @@
-//class name-Bookfunc.java
+//Allows you to Take and return books of your choice.
 import java.awt.*;
 import java.io.File;
 import java.io.FileWriter;
